@@ -1,0 +1,16 @@
+﻿  실험실.c
+C:\Users\user\Desktop\b3f81b702d70691c\실험실\실험실.c(24,16): warning C4047: '==': 'FILE *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\user\Desktop\b3f81b702d70691c\실험실\실험실.c(15,6): warning C4101: 'scores' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\b3f81b702d70691c\실험실\실험실.c(14,25): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\b3f81b702d70691c\실험실\실험실.c(14,13): warning C4101: 'step' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\b3f81b702d70691c\실험실\실험실.c(14,19): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\b3f81b702d70691c\실험실\실험실.c(37,10): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\user\Desktop\b3f81b702d70691c\실험실\실험실.c(37,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\Users\user\Desktop\b3f81b702d70691c\실험실\실험실.c(37,10): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+C:\Users\user\Desktop\b3f81b702d70691c\실험실\실험실.c(37,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+  코드를 생성하고 있습니다.
+  2 of 10 functions (20.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  실험실.vcxproj -> C:\Users\user\Desktop\b3f81b702d70691c\x64\Release\실험실.exe
